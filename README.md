@@ -102,7 +102,7 @@ The hybrid approach integrated both stock data and sentiment scores.
 ## 📽️ Project Presentation & Report
 
 - 📄 [**Full Dissertation Report (PDF)**](.pdf)  
-- 🧑‍🏫 [**Presentation Slides (PPTX)**](.pptx)
+- 🧑‍🏫 [**Presentation Slides (PPTX)**](ppt dissertation.pptx)
 
 The slides and report walk through the **problem definition**, **model-building pipeline**, **visualizations**, and the **business case for hybrid forecasting models** in finance.
 
