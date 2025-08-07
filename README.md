@@ -101,8 +101,8 @@ The hybrid approach integrated both stock data and sentiment scores.
 
 ## 📽️ Project Presentation & Report
 
-- 📄 [**Full Dissertation Report (PDF)**](Predicting Stock price with news sentiment and market data.pdf)  
-- 🧑‍🏫 [**Presentation Slides (PPTX)**](ppt dissertation.pptx)
+- 📄 [**Full Dissertation Report (PDF)**](Predicting%20Stock%20price%20with%20news%20sentiment%20and%20market%20data.pdf)  
+- 🧑‍🏫 [**Presentation Slides (PPTX)**](ppt%20dissertation.pptx)
 
 The slides and report walk through the **problem definition**, **model-building pipeline**, **visualizations**, and the **business case for hybrid forecasting models** in finance.
 
